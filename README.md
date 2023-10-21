@@ -1,2 +1,2 @@
 # inlevererereopdracht-2
-kutzooi
+Een genetisch algoritme dat uit de iris-dataset hyperparameteroptimalisatie toepast.
